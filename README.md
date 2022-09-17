@@ -1,2 +1,2 @@
 # random-cpp
-This repository contains my random competitive programming solutions (and other stuff) 👩🏻‍💻
+This repository contains my random competitive programming (Codeforces, AtCoder, Codechef, etc) solutions (and other stuff) 👩🏻‍💻
